@@ -5,15 +5,15 @@
 
 **Programming language:**
 
-```["Python"]```
+```["JavaScript", "Python"]```
 
 **Backend:**
 
-```["Django", "Django Rest Framework"]```
+```["NestJS", "Django", "Django Rest Framework"]```
 
 **Databases:**
 
-```["MySQL", "Postgres", "Redis"]```
+```["Oracle", "MySQL", "Postgres", "Redis"]```
 
 **Other:**
 
