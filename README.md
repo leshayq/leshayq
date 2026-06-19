@@ -1,15 +1,17 @@
 <h1>Hi 👋, I'm Alex</h1>
-<p>Python Backend Developer from Ukraine</p>
-<p>I aspire to join a team where I can apply my knowledge and contribute to the company's success by utilizing my problem-solving skills, teamwork, and ability to quickly adapt to new conditions.</p>
-<h2>Stack</h2>
+<p>Fullstack JavaScript Developer from Ukraine</p>
 
-**Programming language:**
+**Programming languages:**
 
 ```["JavaScript", "Python"]```
 
 **Backend:**
 
 ```["NestJS", "Django", "Django Rest Framework"]```
+
+**Frontend:**
+
+```["React", "React Native & Expo", "Tailwind"]```
 
 **Databases:**
 
